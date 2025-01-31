@@ -3,7 +3,8 @@ name = "thiserror_"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
+
 
 [dev-dependencies]
 common = { path = "../../../helpers/common" }
+thiserror = "2.0.11"
